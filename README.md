@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kharis0
+- 👋 Hi, I’m @Kharis Zietisa
 - 👀 I’m interested in Ethical Hacking, Cybersecurity & Linux Administration.
 - 🌱 I’m currently learning Python Scripting & Automation.
 - 💞️ I’m looking to collaborate on Automation
